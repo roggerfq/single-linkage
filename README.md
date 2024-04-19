@@ -5,9 +5,13 @@ This algorithm constructs the hierarchical cluster of an n-dimensional dataset u
 
 ## Running an example
 Compile the file:
-`g++ -o single_linkage single_linkage.cpp`
+``` shell
+g++ -o single_linkage single_linkage.cpp
+```
 Then, execute the compiled program:
-`./single_linkage`
+``` shell
+./single_linkage
+```
 This will display the following output:
 ```plaintext
 Data:
